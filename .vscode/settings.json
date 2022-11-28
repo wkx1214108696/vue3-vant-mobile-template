@@ -1,0 +1,4 @@
+{
+	// 每次保存的时候将代码按格式进行修复
+	"editor.formatOnSave": true
+}
